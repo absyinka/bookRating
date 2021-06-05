@@ -2,9 +2,9 @@
 
 ## About Book Rating API
 
-The API is built with the **Laravel Framework:**.
-API Live url: **(https://protected-sands-80968.herokuapp.com/api/book-rating/v1.0/)**
-API Documentation url: **(http://protected-sands-80968.herokuapp.com/api/docs)**
+This API is built with the **Laravel Framework:**.
+-   API Live url: **(https://protected-sands-80968.herokuapp.com/api/book-rating/v1.0/)**
+-   API Documentation url: **(http://protected-sands-80968.herokuapp.com/api/docs)**
 
 ## Cloning the project
 
